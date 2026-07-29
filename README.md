@@ -170,8 +170,8 @@ jupyter notebook rfsd_analysis.ipynb
 
 ```
 ├── README.md              # этот файл
-├── rfsd_analysis.ipynb    # ноутбук с анализом
-└── figures/               # графики, создаются при запуске ноутбука
+└── rfsd_analysis.ipynb    # ноутбук с анализом
+
 ```
 
 ## 7. Стек
